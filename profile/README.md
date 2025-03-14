@@ -1,29 +1,19 @@
-# Location Awareness in Next-Generation Networks
+# Wireless Communications and Localization Networks (WCLN) Laboratory<span style="letter-spacing:5px;"> </span>🎯<span style="letter-spacing:0px;"> </span>🚀
 
-## Instructions for Generating `answer.txt`
-The file `answer.txt` must contain a single line with the format:
+<!-- ![WCLN Lab Banner](https://via.placeholder.com/1920x400.png?text=WCLN+Lab+-+Advancing+Wireless+Technologies)   -->
+Welcome to the GitHub account of the WCLN Lab 💡
 
-```
-0.XX
-```
+<!-- ## About Us
+The **Wireless Communications and Networking Lab (WCLN Lab)** at the University of Ferrara focuses on cutting-edge research in wireless technologies, including 5G/6G networks, IoT, machine learning for networking, and beyond. Our mission is to drive innovation in communication systems through interdisciplinary collaboration and open-source contributions. -->
 
-Where `0.XX` represents the horizontal localization error achieved at the 90th percentile. The unit of measure must be meters.
+**Visit our official website:** [https://wcln.unife.it](https://wcln.unife.it/)
 
-## Example
-If the competitor achieves a horizontal localization error of <span style="letter-spacing:-1px;">0.86 m</span> at the 90th percentile, then the file should contain:
+## Research Areas 
 
-```
-0.86
-```
+Our current interests include the application of mathematical and statistical theories to localization and tracking, wireless systems and networks, stochastic sensing, and quantum information science.
 
-## Notes
-- The value should be rounded to two decimals and must be a single line.
-- Ensure there are no extra spaces or characters in the output.
+## Contact Us
 
-## Sample Python Code to Generate `answer.txt`
-```python
-percentile_90_accuracy = 0.86
-with open("answer.txt", "w") as file:
-    file.write(f"{percentile_90_accuracy:.2f}\n")
-```
-This script takes an accuracy percentage and formats it correctly in `answer.txt`. 🎯
+- **Founder & director**: Prof.<span style="letter-spacing:-1px;"> </span>Andrea Conti  
+- **Contact**: [wcln@unife.it](mailto:wcln@unife.it)  
+- **Address**: Department of Engineering, University of Ferrara, Italy  
